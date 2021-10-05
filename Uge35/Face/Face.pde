@@ -1,6 +1,7 @@
 PShape Face; //<>//
 float r;
 
+//Setup hele programmet
 void setup() {
 size(400, 600);
 Face = createShape(GROUP);
